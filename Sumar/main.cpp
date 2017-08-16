@@ -4,16 +4,14 @@ using namespace std;
 
 int main()
 {
-    int x,y,z,p,c;
-    cout << "Ingrese el primer numero: " << endl;
+    int x,y,z=0;
+    cout << "Ingrese la cantidad de numeros que quiere sumar: " << endl;
     cin >> x;
-    cout << "Ingrese el segundo numero: " << endl;
-    cin >> y;
-    z=x+y;
+    for(int i=0;i<x;i++){
+        cout << "Ingrese los numeros: " << endl;
+        cin >> y;
+        z=z+y;
+    }
     cout << "Resultado Final: "<< z << endl;
-    cout << "Ingrese el segundo numero: " << endl;
-    cin >> p;
-    c=p+z;
-    cout << "Resultado Final: "<< c << endl;
     return 0;
 }
