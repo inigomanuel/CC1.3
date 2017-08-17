@@ -29,3 +29,6 @@ int main()
     }
     cout << "Resultado Final: " << y << endl;
 }
+
+
+//n*n+1/2
