@@ -28,6 +28,8 @@ int main()
         y=y+i;
     }
     cout << "Resultado Final: " << y << endl;
+    cout<<"hola iñigo"<<endl;
+
 }
 
 
