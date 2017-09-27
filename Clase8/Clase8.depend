@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506521947 source:d:\cc1.3\clase8\main.cpp
+	<iostream>
+	<cstdlib>
+
