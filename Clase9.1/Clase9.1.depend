@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1507819405 source:d:\cc1.3\clase9.1\main.cpp
+	<iostream>
+	"Jugador.h"
+	"Equipo.h"
+
+1507819178 d:\cc1.3\clase9.1\include\jugador.h
+	<string>
+
+1507820154 source:d:\cc1.3\clase9.1\src\equipo.cpp
+	"Equipo.h"
+	"Jugador.h"
+	<iostream>
+
+1507819509 d:\cc1.3\clase9.1\include\equipo.h
+	"Jugador.h"
+	<string>
+
+1507820026 source:d:\cc1.3\clase9.1\src\jugador.cpp
+	"Jugador.h"
+	<iostream>
+
