@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1509232370 source:c:\users\inigo\desktop\cc1.3\clase9.3\main.cpp
+	<iostream>
+	"Jugador.h"
+	"Equipo.h"
+
+1509230318 c:\users\inigo\desktop\cc1.3\clase9.3\include\jugador.h
+	<string>
+	<iostream>
+
+1509232672 c:\users\inigo\desktop\cc1.3\clase9.3\include\equipo.h
+	"Jugador.h"
+	<iostream>
+
+1509230318 source:c:\users\inigo\desktop\cc1.3\clase9.3\src\jugador.cpp
+	"Jugador.h"
+
+1509231378 source:c:\users\inigo\desktop\cc1.3\clase9.3\src\equipo.cpp
+	"Equipo.h"
+
