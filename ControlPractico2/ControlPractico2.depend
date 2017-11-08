@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1510100211 source:c:\users\inigo\desktop\cc1.3\controlpractico2\main.cpp
+	<iostream>
+	"Poligono.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"ArrayPoligono.h"
+
+1510100307 c:\users\inigo\desktop\cc1.3\controlpractico2\include\poligono.h
+	<iostream>
+
+1510101489 c:\users\inigo\desktop\cc1.3\controlpractico2\include\triangulo.h
+	"Poligono.h"
+	<iostream>
+
+1510101489 c:\users\inigo\desktop\cc1.3\controlpractico2\include\rectangulo.h
+	"Poligono.h"
+	<iostream>
+
+1510101489 c:\users\inigo\desktop\cc1.3\controlpractico2\include\cuadrado.h
+	"Poligono.h"
+	<iostream>
+
+1510110965 c:\users\inigo\desktop\cc1.3\controlpractico2\include\arraypoligono.h
+	"Poligono.h"
+	<iostream>
+
+1510110965 source:c:\users\inigo\desktop\cc1.3\controlpractico2\src\arraypoligono.cpp
+	"ArrayPoligono.h"
+	<iostream>
+
+1510101489 source:c:\users\inigo\desktop\cc1.3\controlpractico2\src\cuadrado.cpp
+	"Cuadrado.h"
+	<iostream>
+
+1510100160 source:c:\users\inigo\desktop\cc1.3\controlpractico2\src\poligono.cpp
+	"Poligono.h"
+	<iostream>
+
+1510101489 source:c:\users\inigo\desktop\cc1.3\controlpractico2\src\rectangulo.cpp
+	"Rectangulo.h"
+	<iostream>
+
+1510101489 source:c:\users\inigo\desktop\cc1.3\controlpractico2\src\triangulo.cpp
+	"Triangulo.h"
+	<iostream>
+
