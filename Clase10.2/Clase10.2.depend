@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1510149736 source:c:\users\alumno-d\desktop\cc1.3\clase10.2\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Empresa.h"
+
+1510149864 c:\users\alumno-d\desktop\cc1.3\clase10.2\include\empleado.h
+	<string>
+	<iostream>
+
+1510149919 c:\users\alumno-d\desktop\cc1.3\clase10.2\include\empresa.h
+	"Empleado.h"
+	<string>
+
+1510149864 source:c:\users\alumno-d\desktop\cc1.3\clase10.2\src\empleado.cpp
+	"Empleado.h"
+
+1510149919 source:c:\users\alumno-d\desktop\cc1.3\clase10.2\src\empresa.cpp
+	"Empresa.h"
+
+1510149283 source:c:\users\alumno-d\desktop\cc1.3\clase10.2\src\fecha.cpp
+	"Fecha.h"
+
+1510149283 c:\users\alumno-d\desktop\cc1.3\clase10.2\include\fecha.h
+
