@@ -1,0 +1,2 @@
+Animales || Raza || Nombre del animal || Color || Nombre del duenio || Numero de patas
+--------------------------------------------------------------------------------------

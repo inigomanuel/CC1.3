@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1510196688 source:c:\users\inigo\desktop\proyectofinal\main.cpp
+	<iostream>
+	"Animal.h"
+	"Administracion.h"
+
+1510195821 c:\users\inigo\desktop\proyectofinal\include\animal.h
+	<iostream>
+
+1510196047 source:c:\users\inigo\desktop\proyectofinal\src\administracion.cpp
+	"Administracion.h"
+
+1510196047 c:\users\inigo\desktop\proyectofinal\include\administracion.h
+	<iostream>
+	<fstream>
+	"Animal.h"
+
+1510195821 source:c:\users\inigo\desktop\proyectofinal\src\animal.cpp
+	"Animal.h"
+
+1510195821 source:c:\users\inigo\desktop\proyectofinal\src\gato.cpp
+	"Gato.h"
+
+1510195821 c:\users\inigo\desktop\proyectofinal\include\gato.h
+	<iostream>
+	"Animal.h"
+
+1510195821 source:c:\users\inigo\desktop\proyectofinal\src\perico.cpp
+	"Perico.h"
+
+1510195821 c:\users\inigo\desktop\proyectofinal\include\perico.h
+	<iostream>
+	"Animal.h"
+
+1510195821 source:c:\users\inigo\desktop\proyectofinal\src\perro.cpp
+	"Perro.h"
+
+1510195821 c:\users\inigo\desktop\proyectofinal\include\perro.h
+	<iostream>
+	"Animal.h"
+
