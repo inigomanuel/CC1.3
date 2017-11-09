@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1510183821 source:c:\users\inigo\desktop\cc1.3\clase10.3\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Empresa.h"
+
+1510184716 c:\users\inigo\desktop\cc1.3\clase10.3\include\empleado.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	"Departamento.h"
+
+1510184519 c:\users\inigo\desktop\cc1.3\clase10.3\include\fecha.h
+	<iostream>
+
+1510184308 c:\users\inigo\desktop\cc1.3\clase10.3\include\departamento.h
+	<iostream>
+
+1510184308 c:\users\inigo\desktop\cc1.3\clase10.3\include\empresa.h
+	<string>
+	"Empleado.h"
+	"Fecha.h"
+	"Departamento.h"
+
+1510184308 source:c:\users\inigo\desktop\cc1.3\clase10.3\src\departamento.cpp
+	"Departamento.h"
+
+1510184519 source:c:\users\inigo\desktop\cc1.3\clase10.3\src\empleado.cpp
+	"Empleado.h"
+
