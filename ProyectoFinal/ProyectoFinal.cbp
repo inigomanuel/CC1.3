@@ -37,12 +37,14 @@
 		<Unit filename="include/Administracion.h" />
 		<Unit filename="include/Animal.h" />
 		<Unit filename="include/Gato.h" />
+		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Perico.h" />
 		<Unit filename="include/Perro.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Administracion.cpp" />
 		<Unit filename="src/Animal.cpp" />
 		<Unit filename="src/Gato.cpp" />
+		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/Perico.cpp" />
 		<Unit filename="src/Perro.cpp" />
 		<Extensions>

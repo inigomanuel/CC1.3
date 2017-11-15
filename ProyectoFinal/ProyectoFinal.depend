@@ -39,3 +39,53 @@
 	<iostream>
 	"Animal.h"
 
+1510755075 source:d:\cc1.3\proyectofinal\src\administracion.cpp
+	"Administracion.h"
+
+1510755075 d:\cc1.3\proyectofinal\include\administracion.h
+	<iostream>
+	<fstream>
+	"Animal.h"
+
+1510755075 d:\cc1.3\proyectofinal\include\animal.h
+	<iostream>
+
+1510755075 source:d:\cc1.3\proyectofinal\src\animal.cpp
+	"Animal.h"
+
+1510755075 source:d:\cc1.3\proyectofinal\src\gato.cpp
+	"Gato.h"
+
+1510755075 d:\cc1.3\proyectofinal\include\gato.h
+	<iostream>
+	"Animal.h"
+
+1510755075 source:d:\cc1.3\proyectofinal\src\perico.cpp
+	"Perico.h"
+
+1510755075 d:\cc1.3\proyectofinal\include\perico.h
+	<iostream>
+	"Animal.h"
+
+1510755075 source:d:\cc1.3\proyectofinal\src\perro.cpp
+	"Perro.h"
+
+1510755075 d:\cc1.3\proyectofinal\include\perro.h
+	<iostream>
+	"Animal.h"
+
+1510755387 source:d:\cc1.3\proyectofinal\main.cpp
+	<iostream>
+	"Animal.h"
+	"Administracion.h"
+	"Menu.h"
+
+1510755352 d:\cc1.3\proyectofinal\include\menu.h
+
+1510755352 source:d:\cc1.3\proyectofinal\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+
