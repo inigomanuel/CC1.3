@@ -10,6 +10,7 @@ int main()
     Administracion Adm;
     Menu m;
     Adm.ingresar_animales();
+    m.Title();
     m.Body();
     return 0;
 }

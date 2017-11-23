@@ -8,10 +8,12 @@ using namespace std;
 void Menu::Preguntar()
 {
     int usuario;
-    cout<<"1) Iniciar el Juego"<<endl;
-    cout<<"2) Instrucciones"<<endl;
-    cout<<"3) Creditos"<<endl;
-    cout<<"4) Salir del Juego"<<endl;
+    cout<<"1) Ingresar Animal"<<endl;
+    cout<<"2) Ingresar Personal"<<endl;
+    cout<<"3) Modificar Registro de Animales"<<endl;
+    cout<<"4) Modificar Registro de Personal"<<endl;
+    cout<<"5) Creditos"<<endl;
+    cout<<"6) Salir del Juego"<<endl;
     cout<<""<<endl;
     cout<<"Que desea hacer?"<<endl;
     cin>>usuario;
@@ -19,45 +21,53 @@ void Menu::Preguntar()
             {
                 case 1:
                     system("cls");
+                    cout<<""<<endl;
                     break;
                 case 2:
                     system("cls");
-                    Instrucciones();
+                    cout<<""<<endl;
                     break;
                 case 3:
                     system("cls");
-                    Creditos();
+                    cout<<""<<endl;
                     break;
                 case 4:
+                    system("cls");
+                    cout<<""<<endl;
+                    break;
+                case 5:
+                    system("cls");
+                    Creditos();
+                    break;
+                case 6:
                     system("cls");
                     break;
             }
 }
 void Menu::Title()
 {
-    cout<<"nombre"<<endl;
-}
-
-void Menu::Instrucciones()
-{
-    cout<<"1) Movimiento"<<endl;
+    cout<<" ___ ___         __               __                    __           "<<endl;
+    cout<<"|   |   |.-----.|  |_.-----.----.|__|.-----.---.-.----.|__|.---.-.   "<<endl;
+    cout<<"|   |   ||  -__||   _|  -__|   _||  ||     |  _  |   _||  ||  _  |   "<<endl;
+    cout<<" \\_____/ |_____||____|_____|__|  |__||__|__|___._|__|  |__||___._|   "<<endl;
+    cout<<"                                                                     "<<endl;
     cout<<""<<endl;
-    cout<<""<<endl;
-    cout<<"2) Accion"<<endl;
-    cout<<""<<endl;
-    cout<<""<<endl;
-    cout<<"3) Aceptar"<<endl;
-    cout<<""<<endl;
-    cout<<""<<endl;
-    Preguntar();
+    cout<<" _______         __                                           "<<endl;
+    cout<<"|   |   |.---.-.|  |_.---.-.-----.-----.----.----.-----.-----."<<endl;
+    cout<<"|       ||  _  ||   _|  _  |  _  |  -__|   _|   _|  _  |__ --|"<<endl;
+    cout<<"|__|_|__||___._||____|___._|   __|_____|__| |__| |_____|_____|"<<endl;
+    cout<<"                           |__|                               "<<endl;
 }
 
 void Menu::Creditos()
 {
+    cout<<"Esta Base de Datos fue creada por el estudiante: "<<endl;
+    cout<<""<<endl;
+    cout<<"Inigo Diez Canseco Fuentes "<<endl;
+    cout<<""<<endl;
+    cout<<"Copyright"<<endl;
     cout<<""<<endl;
     cout<<""<<endl;
-    cout<<"Rafa"<<endl;
-    cout<<"Inigo"<<endl;
     cout<<""<<endl;
     Preguntar();
 
@@ -66,8 +76,6 @@ void Menu::Creditos()
 void Menu::Body()
 {
     int usuario=0;
-    Title();
-    cout<<""<<endl;
     cout<<""<<endl;
     Preguntar();
 }

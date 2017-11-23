@@ -39,53 +39,90 @@
 	<iostream>
 	"Animal.h"
 
-1510755075 source:d:\cc1.3\proyectofinal\src\administracion.cpp
+1511444504 source:d:\cc1.3\proyectofinal\src\administracion.cpp
 	"Administracion.h"
 
-1510755075 d:\cc1.3\proyectofinal\include\administracion.h
+1511444504 d:\cc1.3\proyectofinal\include\administracion.h
 	<iostream>
 	<fstream>
 	"Animal.h"
 
-1510755075 d:\cc1.3\proyectofinal\include\animal.h
+1511444504 d:\cc1.3\proyectofinal\include\animal.h
 	<iostream>
 
-1510755075 source:d:\cc1.3\proyectofinal\src\animal.cpp
+1511444504 source:d:\cc1.3\proyectofinal\src\animal.cpp
 	"Animal.h"
 
-1510755075 source:d:\cc1.3\proyectofinal\src\gato.cpp
+1511444504 source:d:\cc1.3\proyectofinal\src\gato.cpp
 	"Gato.h"
 
-1510755075 d:\cc1.3\proyectofinal\include\gato.h
+1511444504 d:\cc1.3\proyectofinal\include\gato.h
 	<iostream>
 	"Animal.h"
 
-1510755075 source:d:\cc1.3\proyectofinal\src\perico.cpp
+1511444504 source:d:\cc1.3\proyectofinal\src\perico.cpp
 	"Perico.h"
 
-1510755075 d:\cc1.3\proyectofinal\include\perico.h
+1511444504 d:\cc1.3\proyectofinal\include\perico.h
 	<iostream>
 	"Animal.h"
 
-1510755075 source:d:\cc1.3\proyectofinal\src\perro.cpp
+1511444504 source:d:\cc1.3\proyectofinal\src\perro.cpp
 	"Perro.h"
 
-1510755075 d:\cc1.3\proyectofinal\include\perro.h
+1511444504 d:\cc1.3\proyectofinal\include\perro.h
 	<iostream>
 	"Animal.h"
 
-1510755387 source:d:\cc1.3\proyectofinal\main.cpp
+1511445219 source:d:\cc1.3\proyectofinal\main.cpp
 	<iostream>
 	"Animal.h"
 	"Administracion.h"
 	"Menu.h"
 
-1510755352 d:\cc1.3\proyectofinal\include\menu.h
+1511446839 d:\cc1.3\proyectofinal\include\menu.h
+	"Animal.h"
+	"Administracion.h"
+	"Persona.h"
 
-1510755352 source:d:\cc1.3\proyectofinal\src\menu.cpp
+1511446646 source:d:\cc1.3\proyectofinal\src\menu.cpp
 	"Menu.h"
 	<iostream>
 	<string.h>
 	<conio.h>
 	<cstdlib>
+
+1511445844 d:\cc1.3\proyectofinal\include\persona.h
+
+1511445891 source:d:\cc1.3\proyectofinal\src\asistente.cpp
+	"Asistente.h"
+
+1511446693 d:\cc1.3\proyectofinal\include\asistente.h
+	"Persona.h"
+
+1511445881 source:d:\cc1.3\proyectofinal\src\cliente.cpp
+	"Cliente.h"
+
+1511445881 d:\cc1.3\proyectofinal\include\cliente.h
+
+1511445874 source:d:\cc1.3\proyectofinal\src\limpieza.cpp
+	"Limpieza.h"
+
+1511446693 d:\cc1.3\proyectofinal\include\limpieza.h
+	"Persona.h"
+
+1511445844 source:d:\cc1.3\proyectofinal\src\persona.cpp
+	"Persona.h"
+
+1511445866 source:d:\cc1.3\proyectofinal\src\secretaria.cpp
+	"Secretaria.h"
+
+1511446693 d:\cc1.3\proyectofinal\include\secretaria.h
+	"Persona.h"
+
+1511445858 source:d:\cc1.3\proyectofinal\src\veterinario.cpp
+	"Veterinario.h"
+
+1511446693 d:\cc1.3\proyectofinal\include\veterinario.h
+	"Persona.h"
 
