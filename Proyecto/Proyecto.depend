@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1511939802 source:c:\users\inigo\desktop\cc1.3\proyecto\main.cpp
+	<iostream>
+	"Administracion.h"
+	"Animal.h"
+	"Personal.h"
+	"Menu.h"
+
+1511938719 c:\users\inigo\desktop\cc1.3\proyecto\include\animal.h
+	<iostream>
+
+1511940242 c:\users\inigo\desktop\cc1.3\proyecto\include\administracion.h
+	<iostream>
+	<fstream>
+	<vector>
+	"Animal.h"
+	"Personal.h"
+
+1511937158 c:\users\inigo\desktop\cc1.3\proyecto\include\personal.h
+	<iostream>
+
+1511940242 c:\users\inigo\desktop\cc1.3\proyecto\include\menu.h
+	"Animal.h"
+	"Administracion.h"
+	"Personal.h"
+	<iostream>
+	<cstdlib>
+
+1511939686 source:c:\users\inigo\desktop\cc1.3\proyecto\src\administracion.cpp
+	"Administracion.h"
+
+1511938745 source:c:\users\inigo\desktop\cc1.3\proyecto\src\animal.cpp
+	"Animal.h"
+
+1511937205 source:c:\users\inigo\desktop\cc1.3\proyecto\src\asistente.cpp
+	"Asistente.h"
+
+1511937136 c:\users\inigo\desktop\cc1.3\proyecto\include\asistente.h
+	"Personal.h"
+
+1511939016 source:c:\users\inigo\desktop\cc1.3\proyecto\src\cliente.cpp
+	"Cliente.h"
+
+1511939016 c:\users\inigo\desktop\cc1.3\proyecto\include\cliente.h
+	<iostream>
+	<string>
+
+1511938719 source:c:\users\inigo\desktop\cc1.3\proyecto\src\gato.cpp
+	"Gato.h"
+
+1511934672 c:\users\inigo\desktop\cc1.3\proyecto\include\gato.h
+	<iostream>
+	"Animal.h"
+
+1511937205 source:c:\users\inigo\desktop\cc1.3\proyecto\src\limpieza.cpp
+	"Limpieza.h"
+
+1511937136 c:\users\inigo\desktop\cc1.3\proyecto\include\limpieza.h
+	"Personal.h"
+
+1511918052 source:c:\users\inigo\desktop\cc1.3\proyecto\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+
+1511938771 source:c:\users\inigo\desktop\cc1.3\proyecto\src\perico.cpp
+	"Perico.h"
+
+1511934672 c:\users\inigo\desktop\cc1.3\proyecto\include\perico.h
+	<iostream>
+	"Animal.h"
+
+1511938719 source:c:\users\inigo\desktop\cc1.3\proyecto\src\perro.cpp
+	"Perro.h"
+
+1511934457 c:\users\inigo\desktop\cc1.3\proyecto\include\perro.h
+	<iostream>
+	"Animal.h"
+
+1511937136 source:c:\users\inigo\desktop\cc1.3\proyecto\src\personal.cpp
+	"Personal.h"
+
+1511937205 source:c:\users\inigo\desktop\cc1.3\proyecto\src\secretaria.cpp
+	"Secretaria.h"
+
+1511937728 c:\users\inigo\desktop\cc1.3\proyecto\include\secretaria.h
+	"Personal.h"
+
+1511937205 source:c:\users\inigo\desktop\cc1.3\proyecto\src\veterinario.cpp
+	"Veterinario.h"
+
+1511937136 c:\users\inigo\desktop\cc1.3\proyecto\include\veterinario.h
+	"Personal.h"
+
