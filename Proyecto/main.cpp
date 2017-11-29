@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    Administracion Adm;
+    Administracion adm;
     Menu m;
 
     m.Title();

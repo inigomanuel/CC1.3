@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1511939802 source:c:\users\inigo\desktop\cc1.3\proyecto\main.cpp
+1511954962 source:c:\users\inigo\desktop\cc1.3\proyecto\main.cpp
 	<iostream>
 	"Administracion.h"
 	"Animal.h"
@@ -9,12 +9,19 @@
 1511938719 c:\users\inigo\desktop\cc1.3\proyecto\include\animal.h
 	<iostream>
 
-1511940242 c:\users\inigo\desktop\cc1.3\proyecto\include\administracion.h
+1511958532 c:\users\inigo\desktop\cc1.3\proyecto\include\administracion.h
 	<iostream>
 	<fstream>
 	<vector>
 	"Animal.h"
+	"Gato.h"
+	"Perico.h"
+	"Perro.h"
 	"Personal.h"
+	"Veterinario.h"
+	"Asistente.h"
+	"Secretaria.h"
+	"Limpieza.h"
 
 1511937158 c:\users\inigo\desktop\cc1.3\proyecto\include\personal.h
 	<iostream>
@@ -26,7 +33,7 @@
 	<iostream>
 	<cstdlib>
 
-1511939686 source:c:\users\inigo\desktop\cc1.3\proyecto\src\administracion.cpp
+1511958490 source:c:\users\inigo\desktop\cc1.3\proyecto\src\administracion.cpp
 	"Administracion.h"
 
 1511938745 source:c:\users\inigo\desktop\cc1.3\proyecto\src\animal.cpp
@@ -58,12 +65,8 @@
 1511937136 c:\users\inigo\desktop\cc1.3\proyecto\include\limpieza.h
 	"Personal.h"
 
-1511918052 source:c:\users\inigo\desktop\cc1.3\proyecto\src\menu.cpp
+1511958532 source:c:\users\inigo\desktop\cc1.3\proyecto\src\menu.cpp
 	"Menu.h"
-	<iostream>
-	<string.h>
-	<conio.h>
-	<cstdlib>
 
 1511938771 source:c:\users\inigo\desktop\cc1.3\proyecto\src\perico.cpp
 	"Perico.h"

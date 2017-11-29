@@ -4,14 +4,19 @@
 #include <fstream>
 #include <vector>
 #include "Animal.h"
+#include "Gato.h"
+#include "Perico.h"
+#include "Perro.h"
 #include "Personal.h"
+#include "Veterinario.h"
+#include "Asistente.h"
+#include "Secretaria.h"
+#include "Limpieza.h"
 
 using namespace std;
 
 class Administracion{
     public:
-        int tamanio;
-        Animal **animales = new Animal*[tamanio];
         vector <Animal*> animal;
         vector <Personal*> personas;
 

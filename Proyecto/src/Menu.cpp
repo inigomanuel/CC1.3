@@ -18,27 +18,27 @@ void Menu::Preguntar()
             {
                 case 1:
                     system("cls");
-                    ingresar_animales();
+                    //ingresar_animales();
                     break;
                 case 2:
                     system("cls");
-                    ingresar_personal();
+                    //ingresar_personal();
                     break;
                 case 3:
                     system("cls");
-                    modificar_registro_de_animales();
+                    //modificar_registro_de_animales();
                     break;
                 case 4:
                     system("cls");
-                    modificar_registro_del_personal();
+                    //modificar_registro_del_personal();
                     break;
                 case 5:
                     system("cls");
-                    visualizar_registro_de_animales();
+                    //visualizar_registro_de_animales();
                     break;
                 case 6:
                     system("cls");
-                    visualizar_registro_del_personal();
+                    //visualizar_registro_del_personal();
                     break;
                 case 7:
                     system("cls");
